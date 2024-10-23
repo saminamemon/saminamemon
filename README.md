@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm samina memon</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Web 3.0 metaverse certified developer**
+- 🌱 I’m currently learning **Generative AI/Frontend certified developer**
 
 - 💬 Ask me about **Typescript nextjs**
 
 - 📫 How to reach me **saminamohammadrasheed@gmail.com**
 
-- 📄 Know about my experiences [fresher](fresher)
+- 📄 Know about my experiences 1.5 years
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
